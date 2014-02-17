@@ -1,0 +1,1 @@
+Using machine learning, decision trees, and regression probabilities to predict the outcome of the Division 1 NCAA Basketball Tournament this year. Goal is to place above the chessmetrics benchmark on the kaggle leaderboard. Or to have my logloss as low as possible based on historical data.
